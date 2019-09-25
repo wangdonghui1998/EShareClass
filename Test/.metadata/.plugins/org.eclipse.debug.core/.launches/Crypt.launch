@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Solar/WebContent/WEB-INF/lib/ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.kobjects.crypt.Crypt"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Solar"/>
+</launchConfiguration>

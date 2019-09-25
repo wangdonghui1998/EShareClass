@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\EShareClass\Test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1431847891.index
+784352574.index
+792280754.index
+1163163165.index
+969442018.index
+3927467999.index

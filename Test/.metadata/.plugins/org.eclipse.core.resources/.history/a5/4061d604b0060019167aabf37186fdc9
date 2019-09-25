@@ -1,0 +1,28 @@
+package test;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import com.webtest.core.BaseTest;
+
+import action.Login_action;
+import dataprovider.NSDataProvider;
+
+public class AddCourse extends BaseTest{
+
+	@BeforeClass
+	public void login() {
+		Login_action login = new Login_action(webtest);
+		login.login("123@qq.com", "123", "退出");
+	}
+	
+	@Test(dataProvider="applyCourse",dataProviderClass=NSDataProvider.class)
+	public void applyplace(String sitetype,String useyear,String useother,String uselang,String checkwords) throws InterruptedException {
+		//点击个人中心
+		webtest.click("xpath=//a[contains(.,'个人中心')]");
+		//点击上传课程
+		webtest.click("xpath=//em[contains(.,'上传课程')]");
+		//点击创建课程
+		webtest.click("xpath=//button[contains(.,'创建课程')]");
+	}
+}

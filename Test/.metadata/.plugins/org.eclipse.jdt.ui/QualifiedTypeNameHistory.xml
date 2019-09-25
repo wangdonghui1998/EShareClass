@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.webtest.dataprovider.NSDataProvider"/>
+    <fullyQualifiedTypeName name="com.webtest.core.WebDriverEngine"/>
+    <fullyQualifiedTypeName name="org.testng.TestListenerAdapter"/>
+    <fullyQualifiedTypeName name="org.testng.ITestListener"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeClass"/>
+    <fullyQualifiedTypeName name="action.Login_action"/>
+    <fullyQualifiedTypeName name="com.webtest.dataprovider.TxtDataProvider"/>
+    <fullyQualifiedTypeName name="com.webtest.dataprovider.ExcelDataProvider"/>
+    <fullyQualifiedTypeName name="com.webtest.dataprovider.MysqlDataProvider"/>
+    <fullyQualifiedTypeName name="dataprovider.NSDataProvider"/>
+    <fullyQualifiedTypeName name="com.webtest.utils.Log"/>
+    <fullyQualifiedTypeName name="com.webtest.core.BaseTest"/>
+    <fullyQualifiedTypeName name="com.webtest.utils.ReadProperties"/>
+    <fullyQualifiedTypeName name="javax.mail.internet.MimeUtility"/>
+    <fullyQualifiedTypeName name="org.testng.ITestContext"/>
+    <fullyQualifiedTypeName name="org.testng.TestRunner"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Listeners"/>
+    <fullyQualifiedTypeName name="org.testng.ITestNGMethod"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+</qualifiedTypeNameHistroy>

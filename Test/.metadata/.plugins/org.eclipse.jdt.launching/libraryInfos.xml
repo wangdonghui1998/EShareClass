@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\Java\JDK" version="9.0.4"/>
+<libraryInfo home="D:\Java\JRE" version="9.0.4"/>
+<libraryInfo home="D:\EShareClass\Tools\Java\JRE" version="1.8.0_161">
+<bootpath>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\resources.jar"/>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\rt.jar"/>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\sunrsasign.jar"/>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\jsse.jar"/>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\jce.jar"/>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\charsets.jar"/>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\jfr.jar"/>
+<entry path="D:\EShareClass\Tools\Java\JRE\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\EShareClass\Tools\Java\JRE\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

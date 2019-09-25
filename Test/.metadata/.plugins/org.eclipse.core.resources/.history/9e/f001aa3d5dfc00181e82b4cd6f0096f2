@@ -1,0 +1,12 @@
+package com.eshareclass.test;
+
+import org.testng.annotations.Test;
+
+import com.webtest.core.BaseTest;
+
+public class NewTest extends BaseTest{
+  @Test
+  public void f() {
+	  webtest.open("www.baidu.com");
+  }
+}
